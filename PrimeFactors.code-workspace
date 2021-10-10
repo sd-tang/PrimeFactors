@@ -1,0 +1,17 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "AppPrimeFactors"
+		},
+		{
+			"path": "PrimeFactorsLib"
+		},
+		{
+			"path": "PrimeFactorsLibUnitTests"
+		}
+	],
+	"settings": {}
+}

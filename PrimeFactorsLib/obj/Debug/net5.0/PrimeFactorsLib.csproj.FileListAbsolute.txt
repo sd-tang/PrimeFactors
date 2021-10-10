@@ -1,0 +1,12 @@
+C:\Users\chris\source\repos\Code\PrimeFactors\PrimeFactorsLib\bin\Debug\net5.0\PrimeFactorsLib.deps.json
+C:\Users\chris\source\repos\Code\PrimeFactors\PrimeFactorsLib\bin\Debug\net5.0\PrimeFactorsLib.dll
+C:\Users\chris\source\repos\Code\PrimeFactors\PrimeFactorsLib\bin\Debug\net5.0\ref\PrimeFactorsLib.dll
+C:\Users\chris\source\repos\Code\PrimeFactors\PrimeFactorsLib\bin\Debug\net5.0\PrimeFactorsLib.pdb
+C:\Users\chris\source\repos\Code\PrimeFactors\PrimeFactorsLib\obj\Debug\net5.0\PrimeFactorsLib.csproj.AssemblyReference.cache
+C:\Users\chris\source\repos\Code\PrimeFactors\PrimeFactorsLib\obj\Debug\net5.0\PrimeFactorsLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chris\source\repos\Code\PrimeFactors\PrimeFactorsLib\obj\Debug\net5.0\PrimeFactorsLib.AssemblyInfoInputs.cache
+C:\Users\chris\source\repos\Code\PrimeFactors\PrimeFactorsLib\obj\Debug\net5.0\PrimeFactorsLib.AssemblyInfo.cs
+C:\Users\chris\source\repos\Code\PrimeFactors\PrimeFactorsLib\obj\Debug\net5.0\PrimeFactorsLib.csproj.CoreCompileInputs.cache
+C:\Users\chris\source\repos\Code\PrimeFactors\PrimeFactorsLib\obj\Debug\net5.0\PrimeFactorsLib.dll
+C:\Users\chris\source\repos\Code\PrimeFactors\PrimeFactorsLib\obj\Debug\net5.0\ref\PrimeFactorsLib.dll
+C:\Users\chris\source\repos\Code\PrimeFactors\PrimeFactorsLib\obj\Debug\net5.0\PrimeFactorsLib.pdb
