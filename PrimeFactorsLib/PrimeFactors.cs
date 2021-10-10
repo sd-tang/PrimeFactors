@@ -11,6 +11,11 @@ namespace PrimeFactorsLib
         public int listLength = 0;
         
         // Check if number is prime
+        /// <summary>
+        /// Determine if a number is prime
+        /// </summary>
+        /// <param name="number">Input number to be checked</param>
+        /// <returns>bool value of True or False</returns>
         public bool IsPrimeNumber(int number)
         {
             bool prime = true;
@@ -26,6 +31,11 @@ namespace PrimeFactorsLib
             return prime;
         }
         
+        /// <summary>
+        /// Get prime factors of input number
+        /// </summary>
+        /// <param name="number">Input number</param>
+        /// <returns>Prime factors of input number</returns>
         public List<int> GetPrimeFactors(int number)
         {
             // Take out all the 2s,
