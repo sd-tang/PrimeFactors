@@ -28,6 +28,8 @@ namespace PrimeFactorsLib
         
         public List<int> GetPrimeFactors(int number)
         {
+            // Take out all the 2s,
+            // which is is the smallest prime factor
             while (number % 2 == 0)
             {
                 primeFactorsList.Add(2);
